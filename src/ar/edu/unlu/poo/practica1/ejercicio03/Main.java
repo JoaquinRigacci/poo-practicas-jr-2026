@@ -2,7 +2,7 @@ package ar.edu.unlu.poo.practica1.ejercicio03;
 
 public class Main {
     public static void main(String[] args) {
-        // 1. Instanciamos el historial de navegación
+        // 1. Instanciamos el historial de navegación.
         HistorialNavegacion historial = new HistorialNavegacion();
 
         System.out.println("=== SIMULADOR DE HISTORIAL DE NAVEGACIÓN (TAD PILA) ===");
