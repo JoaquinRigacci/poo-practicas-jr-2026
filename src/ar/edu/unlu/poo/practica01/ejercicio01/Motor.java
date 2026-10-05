@@ -1,4 +1,4 @@
-package ar.edu.unlu.poo.practica1.ejercicio01;
+package ar.edu.unlu.poo.practica01.ejercicio01;
 
 public class Motor {
 

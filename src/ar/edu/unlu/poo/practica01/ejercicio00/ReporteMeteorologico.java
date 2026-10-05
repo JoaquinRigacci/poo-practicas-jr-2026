@@ -1,4 +1,4 @@
-package ar.edu.unlu.poo.practica1.ejercicio00;
+package ar.edu.unlu.poo.practica01.ejercicio00;
 
 public class ReporteMeteorologico {
     private Temperatura unaTemperatura;
