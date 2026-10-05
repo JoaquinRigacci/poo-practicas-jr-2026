@@ -1,4 +1,4 @@
-package ar.edu.unlu.poo.practica3.laboratorio1;
+package ar.edu.unlu.poo.practica03.laboratorio01;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
