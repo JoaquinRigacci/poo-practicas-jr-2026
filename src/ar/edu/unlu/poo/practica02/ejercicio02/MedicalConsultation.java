@@ -1,4 +1,4 @@
-package ar.edu.unlu.poo.practica2.ejercicio02;
+package ar.edu.unlu.poo.practica02.ejercicio02;
 
 public class MedicalConsultation {
 

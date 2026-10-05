@@ -1,4 +1,4 @@
-package ar.edu.unlu.poo.practica2.ejercicio03;
+package ar.edu.unlu.poo.practica02.ejercicio03;
 
 import java.util.ArrayList;
 import java.util.Collections;
