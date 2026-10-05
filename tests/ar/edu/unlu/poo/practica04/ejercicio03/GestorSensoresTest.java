@@ -9,7 +9,7 @@ import java.util.OptionalDouble;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class GestorSensoresTest {
+public class    GestorSensoresTest {
 
     private GestorSensores gestor;
     private Medicion m1;
